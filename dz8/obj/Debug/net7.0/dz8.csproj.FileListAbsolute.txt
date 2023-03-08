@@ -1,0 +1,15 @@
+/Users/di/hhhhh/dz8/bin/Debug/net7.0/dz8
+/Users/di/hhhhh/dz8/bin/Debug/net7.0/dz8.deps.json
+/Users/di/hhhhh/dz8/bin/Debug/net7.0/dz8.runtimeconfig.json
+/Users/di/hhhhh/dz8/bin/Debug/net7.0/dz8.dll
+/Users/di/hhhhh/dz8/bin/Debug/net7.0/dz8.pdb
+/Users/di/hhhhh/dz8/obj/Debug/net7.0/dz8.csproj.AssemblyReference.cache
+/Users/di/hhhhh/dz8/obj/Debug/net7.0/dz8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/di/hhhhh/dz8/obj/Debug/net7.0/dz8.AssemblyInfoInputs.cache
+/Users/di/hhhhh/dz8/obj/Debug/net7.0/dz8.AssemblyInfo.cs
+/Users/di/hhhhh/dz8/obj/Debug/net7.0/dz8.csproj.CoreCompileInputs.cache
+/Users/di/hhhhh/dz8/obj/Debug/net7.0/dz8.dll
+/Users/di/hhhhh/dz8/obj/Debug/net7.0/refint/dz8.dll
+/Users/di/hhhhh/dz8/obj/Debug/net7.0/dz8.pdb
+/Users/di/hhhhh/dz8/obj/Debug/net7.0/dz8.genruntimeconfig.cache
+/Users/di/hhhhh/dz8/obj/Debug/net7.0/ref/dz8.dll
