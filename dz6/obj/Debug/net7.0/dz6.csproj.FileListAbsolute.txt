@@ -1,0 +1,15 @@
+/Users/di/hhhhh/dz6/bin/Debug/net7.0/dz6
+/Users/di/hhhhh/dz6/bin/Debug/net7.0/dz6.deps.json
+/Users/di/hhhhh/dz6/bin/Debug/net7.0/dz6.runtimeconfig.json
+/Users/di/hhhhh/dz6/bin/Debug/net7.0/dz6.dll
+/Users/di/hhhhh/dz6/bin/Debug/net7.0/dz6.pdb
+/Users/di/hhhhh/dz6/obj/Debug/net7.0/dz6.csproj.AssemblyReference.cache
+/Users/di/hhhhh/dz6/obj/Debug/net7.0/dz6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/di/hhhhh/dz6/obj/Debug/net7.0/dz6.AssemblyInfoInputs.cache
+/Users/di/hhhhh/dz6/obj/Debug/net7.0/dz6.AssemblyInfo.cs
+/Users/di/hhhhh/dz6/obj/Debug/net7.0/dz6.csproj.CoreCompileInputs.cache
+/Users/di/hhhhh/dz6/obj/Debug/net7.0/dz6.dll
+/Users/di/hhhhh/dz6/obj/Debug/net7.0/refint/dz6.dll
+/Users/di/hhhhh/dz6/obj/Debug/net7.0/dz6.pdb
+/Users/di/hhhhh/dz6/obj/Debug/net7.0/dz6.genruntimeconfig.cache
+/Users/di/hhhhh/dz6/obj/Debug/net7.0/ref/dz6.dll
